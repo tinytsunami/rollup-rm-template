@@ -1,4 +1,4 @@
-# rollup-rm-templete
+# rollup-rm-template
 A simple rollup configuration for RPG Maker plugin
 
 # rollup-plugin-banner 需要修改
